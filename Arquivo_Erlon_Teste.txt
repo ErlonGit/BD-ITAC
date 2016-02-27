@@ -1,1 +1,3 @@
 Executando Conflito de MERGE
+
+Conflitando o Arquivo
