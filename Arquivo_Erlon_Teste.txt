@@ -2,5 +2,5 @@ Teste de MERGE
 
 ****************
 
-Validando o arquivo 
+Validando o arquivo -- alter
 
