@@ -1,3 +1,5 @@
-Executando Conflito de MERGE
+Executando Conflito de MERGE -------------
 
-Conflitando o Arquivo --------
+Conflitando o Arquivo
+
+Testando com Gildarcio
